@@ -1,5 +1,5 @@
 # Treinamento-1-JS
-# Alura Midi
+## Alura Midi
 
 ## 🕑 Principais conhecimentos desenvolvidos
 - Condições no código e operadores lógicos
